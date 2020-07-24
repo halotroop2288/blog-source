@@ -1,0 +1,14 @@
+baseURL = "https://example.com"
+title = "Your title"
+theme = "m10c"
+paginate = 5
+
+[params]
+  author = "John Doe"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/gohugoio"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/gohugoio"
