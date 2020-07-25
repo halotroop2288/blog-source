@@ -5,3 +5,6 @@ draft: true
 ---
 ## Here, look at this img
 ![Example image](/static/23111701.jpg)
+
+![Example image](https://c8.alamy.com/comp/X83D1D/businessman-with-thoughts-of-suicide-X83D1D.jpg)
+
