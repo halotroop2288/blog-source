@@ -1,14 +1,21 @@
-baseURL = "https://hmmarch.github.io/"
-title = "Your title"
+baseURL = "https://halotroop.com/"
+languageCode = "en-us"
+title = "Caroline's Blog"
 theme = "m10c"
-paginate = 5
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/gohugoio"
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/gohugoio"
+	author = "Caroline Bell"
+	description = "Sandbox game-loving catgirl"
+	avatar = "images/avatar.png"
+	[[params.social]]
+		name = "twitter"
+		url = "https://twitter.com/ha1otroop2288"
+	[[params.social]]
+		name = "github"
+		url = "https://github.com/halotroop2288"
+	[[params.social]]
+		name = "gitlab"
+		url = "https://gitlab.com/halotroop2288"
+	[[params.social]]
+		name = "youtube"
+		url = "https://www.youtube.com/channel/UCMR7J9btPbUCeibSFT0spoA"
